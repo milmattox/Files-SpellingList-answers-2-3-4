@@ -1,0 +1,10 @@
+anchovies
+apple
+banana
+beans
+cantaloupe
+fries
+hamburger
+peas
+strawberries
+tomato
